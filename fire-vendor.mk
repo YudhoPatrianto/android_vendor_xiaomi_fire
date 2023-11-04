@@ -2522,7 +2522,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     GoogleNetworkStackResOverlay \
     GoogleTetheringResOverlay \
-    IFAAService \
     InProcessTetheringResOverlay \
     MipayService \
     NetworkStackInProcessResOverlay \

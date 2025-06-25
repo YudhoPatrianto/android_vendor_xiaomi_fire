@@ -2541,7 +2541,6 @@ PRODUCT_PACKAGES += \
     manifest_vendor.xiaomi.hardware.tidaservice \
     manifest_vendor.xiaomi.hardware.vsimapp \
     manifest_wechat \
-    power-default \
     vendor.xiaomi.hardware.micharge@1.0 \
     vendor.xiaomi.hardware.misys@1.0 \
     vendor.xiaomi.hardware.misys@2.0 \

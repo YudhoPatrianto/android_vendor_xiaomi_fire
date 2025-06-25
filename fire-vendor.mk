@@ -1559,7 +1559,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib/librcs_volte_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/librcs_volte_core.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/librgbwlightsensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/librgbwlightsensor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/librt_extamp_intf.so:$(TARGET_COPY_OUT_VENDOR)/lib/librt_extamp_intf.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorndkbridge.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libsfplugin_ccodec_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfplugin_ccodec_utils.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libshmemcompat.so:$(TARGET_COPY_OUT_VENDOR)/lib/libshmemcompat.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libshmemutil.so:$(TARGET_COPY_OUT_VENDOR)/lib/libshmemutil.so \
@@ -2127,7 +2126,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/librilfusion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librilfusion.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/librt_extamp_intf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librt_extamp_intf.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libsensor_custom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensor_custom.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorndkbridge.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libsfplugin_ccodec_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfplugin_ccodec_utils.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libshmemcompat.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libshmemcompat.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libshmemutil.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libshmemutil.so \

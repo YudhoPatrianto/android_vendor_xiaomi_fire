@@ -2533,7 +2533,6 @@ PRODUCT_PACKAGES += \
     gnss@2.1-service \
     lbs_hidl_service@1.0 \
     lights-mtk-default \
-    manifest_android.hardware.drm@1.4-service.clearkey \
     manifest_android.hardware.drm@1.4-service.widevine \
     manifest_hwcomposer \
     manifest_media_c2_V1_2_default \

@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib/vendor.pixelworks.hardware.feature@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.pixelworks.hardware.feature@1.1.so \
     vendor/xiaomi/fire/proprietary/lib/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.trustonic.tee@1.0.so \
     vendor/xiaomi/fire/proprietary/lib/vendor.trustonic.tee@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.trustonic.tee@1.1.so \
-    vendor/xiaomi/fire/proprietary/lib/vendor.xiaomi.hardware.fingerprintextension@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.fingerprintextension@1.0.so \
     vendor/xiaomi/fire/proprietary/lib/vendor.xiaomi.hardware.micharge@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.micharge@1.0.so \
     vendor/xiaomi/fire/proprietary/lib64/libged_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libged_sys.so \
     vendor/xiaomi/fire/proprietary/lib64/libgralloc_extra_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libgralloc_extra_sys.so \
@@ -58,7 +57,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib64/vendor.pixelworks.hardware.feature@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.pixelworks.hardware.feature@1.1.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.0.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.1.so \
-    vendor/xiaomi/fire/proprietary/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.xiaomi.hardware.micharge@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.micharge@1.0.so \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98019AA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98019AA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98019BA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98019BA1.prop \
@@ -2242,7 +2240,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.microtrust.hardware.soter@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.microtrust.hardware.soter@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.nxp.eventprocessor@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.nxp.eventprocessor@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.nxp.nxpnfclegacy@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.nxp.nxpnfclegacy@1.0.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.xiaomi.hardware.mfidoca@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.mfidoca@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.xiaomi.hardware.micharge@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.micharge@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.xiaomi.hardware.misys@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.misys@1.0.so \

@@ -164,8 +164,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/bin/gsm0710muxd:$(TARGET_COPY_OUT_VENDOR)/bin/gsm0710muxd \
     vendor/xiaomi/fire/proprietary/vendor/bin/hostapd_cli:$(TARGET_COPY_OUT_VENDOR)/bin/hostapd_cli \
     vendor/xiaomi/fire/proprietary/vendor/bin/hw/android.hardware.audio.service.mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.audio.service.mediatek \
-    vendor/xiaomi/fire/proprietary/vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.biometrics.fingerprint@2.1-service \
-    vendor/xiaomi/fire/proprietary/vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service_lc:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.biometrics.fingerprint@2.1-service_lc \
     vendor/xiaomi/fire/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.1-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.1-service-mediatek \
     vendor/xiaomi/fire/proprietary/vendor/bin/hw/android.hardware.boot@1.2-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.boot@1.2-service \
     vendor/xiaomi/fire/proprietary/vendor/bin/hw/android.hardware.cas@1.2-service-lazy:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.cas@1.2-service-lazy \
@@ -925,8 +923,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/etc/init/aee_aedv.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/aee_aedv.rc \
     vendor/xiaomi/fire/proprietary/vendor/etc/init/aee_aedv64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/aee_aedv64.rc \
     vendor/xiaomi/fire/proprietary/vendor/etc/init/android.hardware.audio.service.mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.audio.service.mediatek.rc \
-    vendor/xiaomi/fire/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc \
-    vendor/xiaomi/fire/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service_lc.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-service_lc.rc \
     vendor/xiaomi/fire/proprietary/vendor/etc/init/android.hardware.bluetooth@1.1-service-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.1-service-mediatek.rc \
     vendor/xiaomi/fire/proprietary/vendor/etc/init/android.hardware.boot@1.2-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.boot@1.2-service.rc \
     vendor/xiaomi/fire/proprietary/vendor/etc/init/android.hardware.cas@1.2-service-lazy.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.cas@1.2-service-lazy.rc \
@@ -2487,7 +2483,6 @@ PRODUCT_PACKAGES += \
     TetheringResOverlay \
     com.fingerprints.extension \
     com.fingerprints.fpmmi \
-    android.hardware.biometrics.fingerprint@2.1-service \
     android.hardware.boot@1.2 \
     android.hardware.cas@1.2-service-lazy \
     android.hardware.dumpstate@1.1-service.xiaomi \

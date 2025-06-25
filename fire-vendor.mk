@@ -1445,7 +1445,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib/libbt-vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbt-vendor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libbwc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbwc.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcam.halsensor.hwintegration.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcam.halsensor.hwintegration.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib/libcamera2ndk_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera2ndk_vendor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcapctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcapctrl.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcares_naptr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcares_naptr.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcarrierconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcarrierconfig.so \
@@ -1900,7 +1899,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcamdrv_isp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamdrv_isp.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcamdrv_tuning_mgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamdrv_tuning_mgr.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcamdrv_twin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamdrv_twin.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/libcamera2ndk_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera2ndk_vendor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcameracustom.eis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.eis.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcameracustom.plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.plugin.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcameracustom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.so \

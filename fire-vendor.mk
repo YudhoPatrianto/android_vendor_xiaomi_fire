@@ -1042,7 +1042,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/etc/misound_res.bin:$(TARGET_COPY_OUT_VENDOR)/etc/misound_res.bin \
     vendor/xiaomi/fire/proprietary/vendor/etc/misound_res_headphone.bin:$(TARGET_COPY_OUT_VENDOR)/etc/misound_res_headphone.bin \
     vendor/xiaomi/fire/proprietary/vendor/etc/misound_res_spk.bin:$(TARGET_COPY_OUT_VENDOR)/etc/misound_res_spk.bin \
-    vendor/xiaomi/fire/proprietary/vendor/etc/mkshrc:$(TARGET_COPY_OUT_VENDOR)/etc/mkshrc \
     vendor/xiaomi/fire/proprietary/vendor/etc/mmigroup/CommonConf.json:$(TARGET_COPY_OUT_VENDOR)/etc/mmigroup/CommonConf.json \
     vendor/xiaomi/fire/proprietary/vendor/etc/mmigroup/CommonParam.json:$(TARGET_COPY_OUT_VENDOR)/etc/mmigroup/CommonParam.json \
     vendor/xiaomi/fire/proprietary/vendor/etc/mmigroup/FQC.json:$(TARGET_COPY_OUT_VENDOR)/etc/mmigroup/FQC.json \

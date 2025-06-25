@@ -58,9 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.0.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.1.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.xiaomi.hardware.micharge@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.micharge@1.0.so \
-    vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98029BA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/odm.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/odm.prop \
-    vendor/xiaomi/fire/proprietary/odm/etc/build_S98029BA1.prop:$(TARGET_COPY_OUT_ODM)/etc/build_S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/camera/camerabooster.json:$(TARGET_COPY_OUT_ODM)/etc/camera/camerabooster.json \
     vendor/xiaomi/fire/proprietary/odm/etc/device_info_qr_config.yml:$(TARGET_COPY_OUT_ODM)/etc/device_info_qr_config.yml \
     vendor/xiaomi/fire/proprietary/system_ext/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_audio_policy_configuration.xml \
@@ -251,7 +249,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/bin/wmt_launcher:$(TARGET_COPY_OUT_VENDOR)/bin/wmt_launcher \
     vendor/xiaomi/fire/proprietary/vendor/bin/wmt_loader:$(TARGET_COPY_OUT_VENDOR)/bin/wmt_loader \
     vendor/xiaomi/fire/proprietary/vendor/bin/wpa_cli:$(TARGET_COPY_OUT_VENDOR)/bin/wpa_cli \
-    vendor/xiaomi/fire/proprietary/vendor/build_S98029BA1.prop:$(TARGET_COPY_OUT_VENDOR)/build_S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/data/misc/mmc5603_nfc.txt:$(TARGET_COPY_OUT_VENDOR)/data/misc/mmc5603_nfc.txt \
     vendor/xiaomi/fire/proprietary/vendor/data/misc/mmc5603_nonfc.txt:$(TARGET_COPY_OUT_VENDOR)/data/misc/mmc5603_nonfc.txt \
     vendor/xiaomi/fire/proprietary/vendor/data/misc/qmc6308.txt:$(TARGET_COPY_OUT_VENDOR)/data/misc/qmc6308.txt \
@@ -2231,9 +2228,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.xiaomi.hardware.vsimapp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.vsimapp@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/wechat.beanpod.so:$(TARGET_COPY_OUT_VENDOR)/lib64/wechat.beanpod.so \
     vendor/xiaomi/fire/proprietary/vendor/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/libnfc-nxp_RF.conf \
-    vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/S98029BA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/odm.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/odm.prop \
-    vendor/xiaomi/fire/proprietary/vendor/odm/etc/build_S98029BA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/build_S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/camera/camerabooster.json:$(TARGET_COPY_OUT_ODM)/odm/etc/camera/camerabooster.json \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/device_info_qr_config.yml:$(TARGET_COPY_OUT_ODM)/odm/etc/device_info_qr_config.yml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/permissions/sku_hcesim/android.hardware.nfc.hce.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/permissions/sku_hcesim/android.hardware.nfc.hce.xml \

@@ -2529,7 +2529,6 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi.hostapd \
     android.hardware.wifi.supplicant \
     android.hardware.wifi@1.0-service \
-    gnss-default \
     gnss@2.1-service \
     lbs_hidl_service@1.0 \
     lights-mtk-default \

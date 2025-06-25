@@ -1604,7 +1604,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib/mt6768/libmtk_drvb.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6768/libmtk_drvb.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/mt6768/libnir_neon_driver.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6768/libnir_neon_driver.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/mt6768/libpq_prot.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6768/libpq_prot.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib/nfc_nci_nxp.so:$(TARGET_COPY_OUT_VENDOR)/lib/nfc_nci_nxp.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/ov02b10_truly_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/ov02b10_truly_mipi_raw_tuning.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/ov50d40_truly_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/ov50d40_truly_mipi_raw_tuning.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/ov8856_ofilm_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/ov8856_ofilm_mipi_raw_tuning.so \
@@ -2167,7 +2166,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/mt6768/libnir_neon_driver.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6768/libnir_neon_driver.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/mt6768/libpq_prot.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6768/libpq_prot.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/nfc_nci_nxp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/nfc_nci_nxp.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/ov02b10_truly_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ov02b10_truly_mipi_raw_IdxMgr.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/ov02b10_truly_mipi_raw_india_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ov02b10_truly_mipi_raw_india_IdxMgr.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/ov02b10_truly_mipi_raw_india_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ov02b10_truly_mipi_raw_india_tuning.so \

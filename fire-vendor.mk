@@ -1891,7 +1891,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcom.xiaomi.pluginutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcom.xiaomi.pluginutils.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcomposer_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcomposer_ext.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libconnfem.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libconnfem.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/libcppbor_external.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcppbor_external.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcppcose_rkp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcppcose_rkp.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcrypto-mdapp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcrypto-mdapp.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcurl-md.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcurl-md.so \

@@ -1613,7 +1613,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib/sc820cs_truly_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/sc820cs_truly_mipi_raw_tuning.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/sensors.camera.light.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.camera.light.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/sensors.touch.detect.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.touch.detect.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib/shared-file-region-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/shared-file-region-aidl-cpp.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing_mtk.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/soundfx/libdynproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdynproc.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/soundfx/libhapticgenerator.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libhapticgenerator.so \
@@ -2196,7 +2195,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/sc820cs_truly_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sc820cs_truly_mipi_raw_tuning.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/sensors.camera.light.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.camera.light.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/sensors.touch.detect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.touch.detect.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/shared-file-region-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/shared-file-region-aidl-cpp.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiopreprocessing_mtk.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/soundfx/libdynproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdynproc.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/soundfx/libhapticgenerator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libhapticgenerator.so \

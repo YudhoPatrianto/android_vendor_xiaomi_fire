@@ -134,7 +134,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/bin/aee_aedv64:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv64 \
     vendor/xiaomi/fire/proprietary/vendor/bin/aee_dumpstatev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_dumpstatev \
     vendor/xiaomi/fire/proprietary/vendor/bin/aeev:$(TARGET_COPY_OUT_VENDOR)/bin/aeev \
-    vendor/xiaomi/fire/proprietary/vendor/bin/applypatch:$(TARGET_COPY_OUT_VENDOR)/bin/applypatch \
     vendor/xiaomi/fire/proprietary/vendor/bin/atcid:$(TARGET_COPY_OUT_VENDOR)/bin/atcid \
     vendor/xiaomi/fire/proprietary/vendor/bin/audiocmdservice_atci:$(TARGET_COPY_OUT_VENDOR)/bin/audiocmdservice_atci \
     vendor/xiaomi/fire/proprietary/vendor/bin/autobt:$(TARGET_COPY_OUT_VENDOR)/bin/autobt \

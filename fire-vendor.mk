@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.0.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.1.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.xiaomi.hardware.micharge@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.micharge@1.0.so \
-    vendor/xiaomi/fire/proprietary/odm/etc/device_info_qr_config.yml:$(TARGET_COPY_OUT_ODM)/etc/device_info_qr_config.yml \
     vendor/xiaomi/fire/proprietary/system_ext/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_audio_policy_configuration.xml \
     vendor/xiaomi/fire/proprietary/system_ext/etc/a2dp_in_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_in_audio_policy_configuration.xml \
     vendor/xiaomi/fire/proprietary/system_ext/etc/audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/audio_policy_configuration.xml \
@@ -2226,7 +2225,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.xiaomi.hardware.vsimapp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.vsimapp@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/wechat.beanpod.so:$(TARGET_COPY_OUT_VENDOR)/lib64/wechat.beanpod.so \
     vendor/xiaomi/fire/proprietary/vendor/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/libnfc-nxp_RF.conf \
-    vendor/xiaomi/fire/proprietary/vendor/odm/etc/device_info_qr_config.yml:$(TARGET_COPY_OUT_ODM)/odm/etc/device_info_qr_config.yml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/permissions/sku_hcesim/android.hardware.nfc.hce.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/permissions/sku_hcesim/android.hardware.nfc.hce.xml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/permissions/sku_hcesim/android.hardware.nfc.hcef.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/permissions/sku_hcesim/android.hardware.nfc.hcef.xml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/permissions/sku_hcesim/android.hardware.nfc.uicc.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/permissions/sku_hcesim/android.hardware.nfc.uicc.xml \

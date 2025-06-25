@@ -1455,7 +1455,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcodec2_mtk_c2store.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_mtk_c2store.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcodec2_mtk_vdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_mtk_vdec.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcodec2_mtk_venc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_mtk_venc.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib/libcodec2_soft_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_soft_common.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcodec2_soft_mtk_alacdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_soft_mtk_alacdec.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcodec2_soft_mtk_apedec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_soft_mtk_apedec.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libcodec2_soft_mtk_imaadpcmdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_soft_mtk_imaadpcmdec.so \
@@ -1910,7 +1909,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcodec2_mtk_c2store.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_mtk_c2store.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcodec2_mtk_vdec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_mtk_vdec.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcodec2_mtk_venc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_mtk_venc.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/libcodec2_soft_common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_soft_common.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcodec2_soft_mtk_alacdec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_soft_mtk_alacdec.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcodec2_soft_mtk_apedec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_soft_mtk_apedec.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libcodec2_soft_mtk_imaadpcmdec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_soft_mtk_imaadpcmdec.so \

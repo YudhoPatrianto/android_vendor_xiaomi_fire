@@ -94,7 +94,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/odm/etc/build_S98029BA1.prop:$(TARGET_COPY_OUT_ODM)/etc/build_S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/camera/camerabooster.json:$(TARGET_COPY_OUT_ODM)/etc/camera/camerabooster.json \
     vendor/xiaomi/fire/proprietary/odm/etc/device_info_qr_config.yml:$(TARGET_COPY_OUT_ODM)/etc/device_info_qr_config.yml \
-    vendor/xiaomi/fire/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
     vendor/xiaomi/fire/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
     vendor/xiaomi/fire/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml \
     vendor/xiaomi/fire/proprietary/system_ext/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_audio_policy_configuration.xml \
@@ -2474,7 +2473,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/permissions/sku_hcesim/android.hardware.nfc.uicc.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/permissions/sku_hcesim/android.hardware.nfc.uicc.xml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/permissions/sku_hcesim/android.hardware.nfc.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/permissions/sku_hcesim/android.hardware.nfc.xml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/permissions/sku_hcesim/com.nxp.mifare.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/permissions/sku_hcesim/com.nxp.mifare.xml \
-    vendor/xiaomi/fire/proprietary/vendor/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/vintf/manifest_qsqs.xml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/vintf/manifest_ss.xml \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/vintf/manifest_tsts.xml \
     vendor/xiaomi/fire/proprietary/vendor/res/images/lcd_test_00.png:$(TARGET_COPY_OUT_VENDOR)/res/images/lcd_test_00.png \

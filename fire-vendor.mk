@@ -10,7 +10,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib/libged_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libged_sys.so \
     vendor/xiaomi/fire/proprietary/lib/libgralloc_extra_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libgralloc_extra_sys.so \
     vendor/xiaomi/fire/proprietary/lib/libsf_cpupolicy.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsf_cpupolicy.so \
-    vendor/xiaomi/fire/proprietary/lib/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_codecbase.so \
     vendor/xiaomi/fire/proprietary/lib/libstagefright_framecapture_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_framecapture_utils.so \
     vendor/xiaomi/fire/proprietary/lib/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_surface_utils.so \
     vendor/xiaomi/fire/proprietary/lib/libstagefright_wfd_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_wfd_mtk.so \
@@ -39,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib64/libged_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libged_sys.so \
     vendor/xiaomi/fire/proprietary/lib64/libgralloc_extra_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libgralloc_extra_sys.so \
     vendor/xiaomi/fire/proprietary/lib64/libsf_cpupolicy.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsf_cpupolicy.so \
-    vendor/xiaomi/fire/proprietary/lib64/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_codecbase.so \
     vendor/xiaomi/fire/proprietary/lib64/libstagefright_framecapture_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_framecapture_utils.so \
     vendor/xiaomi/fire/proprietary/lib64/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface_utils.so \
     vendor/xiaomi/fire/proprietary/lib64/libstagefright_wfd_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_wfd_mtk.so \

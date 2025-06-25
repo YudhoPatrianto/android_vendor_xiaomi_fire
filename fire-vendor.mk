@@ -1531,7 +1531,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib/libmtkhardware_legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkhardware_legacy.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libmtklimiter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtklimiter_vendor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libmtknetutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtknetutils.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib/libmtkperf_client_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkperf_client_vendor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libmtkproperty.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkproperty.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libmtkrillog.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkrillog.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libmtkshifter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkshifter_vendor.so \
@@ -2090,7 +2089,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libmtkmipc-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkmipc-ril.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libmtknetcap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtknetcap.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libmtknetutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtknetutils.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib64/libmtkperf_client_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkperf_client_vendor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libmtkproperty.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkproperty.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libmtkrillog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkrillog.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/libmtkrilutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkrilutils.so \

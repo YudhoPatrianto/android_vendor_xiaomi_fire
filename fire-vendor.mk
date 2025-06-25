@@ -1564,7 +1564,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib/libspeech_enh_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libspeech_enh_lib.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libspeechparser_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libspeechparser_vendor.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libssl-mdapp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libssl-mdapp.so \
-    vendor/xiaomi/fire/proprietary/vendor/lib/libstagefright_softomx_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_softomx_plugin.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libstagefrighthw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefrighthw.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsysenv.so \
     vendor/xiaomi/fire/proprietary/vendor/lib/libteeclientjni.so:$(TARGET_COPY_OUT_VENDOR)/lib/libteeclientjni.so \

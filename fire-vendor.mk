@@ -58,13 +58,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.0.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.trustonic.tee@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.trustonic.tee@1.1.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.xiaomi.hardware.micharge@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.micharge@1.0.so \
-    vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98019FA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98019FA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98019JA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98019JA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98019KA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98019KA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98029AA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98029AA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/S98029BA1.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/boardid_property/odm.prop:$(TARGET_COPY_OUT_ODM)/etc/boardid_property/odm.prop \
-    vendor/xiaomi/fire/proprietary/odm/etc/build_S98019FA1.prop:$(TARGET_COPY_OUT_ODM)/etc/build_S98019FA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/build_S98019JA1.prop:$(TARGET_COPY_OUT_ODM)/etc/build_S98019JA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/build_S98019KA1.prop:$(TARGET_COPY_OUT_ODM)/etc/build_S98019KA1.prop \
     vendor/xiaomi/fire/proprietary/odm/etc/build_S98029AA1.prop:$(TARGET_COPY_OUT_ODM)/etc/build_S98029AA1.prop \
@@ -259,7 +257,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/bin/wmt_launcher:$(TARGET_COPY_OUT_VENDOR)/bin/wmt_launcher \
     vendor/xiaomi/fire/proprietary/vendor/bin/wmt_loader:$(TARGET_COPY_OUT_VENDOR)/bin/wmt_loader \
     vendor/xiaomi/fire/proprietary/vendor/bin/wpa_cli:$(TARGET_COPY_OUT_VENDOR)/bin/wpa_cli \
-    vendor/xiaomi/fire/proprietary/vendor/build_S98019FA1.prop:$(TARGET_COPY_OUT_VENDOR)/build_S98019FA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/build_S98019JA1.prop:$(TARGET_COPY_OUT_VENDOR)/build_S98019JA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/build_S98019KA1.prop:$(TARGET_COPY_OUT_VENDOR)/build_S98019KA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/build_S98029AA1.prop:$(TARGET_COPY_OUT_VENDOR)/build_S98029AA1.prop \
@@ -2243,13 +2240,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/lib64/vendor.xiaomi.hardware.vsimapp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.vsimapp@1.0.so \
     vendor/xiaomi/fire/proprietary/vendor/lib64/wechat.beanpod.so:$(TARGET_COPY_OUT_VENDOR)/lib64/wechat.beanpod.so \
     vendor/xiaomi/fire/proprietary/vendor/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/libnfc-nxp_RF.conf \
-    vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/S98019FA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/S98019FA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/S98019JA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/S98019JA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/S98019KA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/S98019KA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/S98029AA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/S98029AA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/S98029BA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/S98029BA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/boardid_property/odm.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/boardid_property/odm.prop \
-    vendor/xiaomi/fire/proprietary/vendor/odm/etc/build_S98019FA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/build_S98019FA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/build_S98019JA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/build_S98019JA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/build_S98019KA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/build_S98019KA1.prop \
     vendor/xiaomi/fire/proprietary/vendor/odm/etc/build_S98029AA1.prop:$(TARGET_COPY_OUT_ODM)/odm/etc/build_S98029AA1.prop \

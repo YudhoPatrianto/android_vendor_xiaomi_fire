@@ -10,7 +10,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib/libged_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libged_sys.so \
     vendor/xiaomi/fire/proprietary/lib/libgralloc_extra_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libgralloc_extra_sys.so \
     vendor/xiaomi/fire/proprietary/lib/libsf_cpupolicy.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsf_cpupolicy.so \
-    vendor/xiaomi/fire/proprietary/lib/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_surface_utils.so \
     vendor/xiaomi/fire/proprietary/lib/libstagefright_wfd_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_wfd_mtk.so \
     vendor/xiaomi/fire/proprietary/lib/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.dolby.hardware.dms@2.0.so \
     vendor/xiaomi/fire/proprietary/lib/vendor.mediatek.hardware.camera.isphal@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.camera.isphal@1.0.so \
@@ -37,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/lib64/libged_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libged_sys.so \
     vendor/xiaomi/fire/proprietary/lib64/libgralloc_extra_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libgralloc_extra_sys.so \
     vendor/xiaomi/fire/proprietary/lib64/libsf_cpupolicy.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsf_cpupolicy.so \
-    vendor/xiaomi/fire/proprietary/lib64/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface_utils.so \
     vendor/xiaomi/fire/proprietary/lib64/libstagefright_wfd_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_wfd_mtk.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.dolby.hardware.dms@2.0.so \
     vendor/xiaomi/fire/proprietary/lib64/vendor.mediatek.hardware.bluetooth.audio-V1-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.bluetooth.audio-V1-ndk.so \

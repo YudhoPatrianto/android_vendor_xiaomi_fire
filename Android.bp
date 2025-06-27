@@ -6,14 +6,14 @@ soong_namespace {
 }
 
 cc_prebuilt_library_shared {
-	name: "libwifi-hal",
+	name: "libwifi-hal-mtk",
 	owner: "xiaomi",
 	strip: {
 		none: true,
 	},
 	target: {
 		android_arm64: {
-			srcs: ["proprietary/vendor/lib64/libwifi-hal.so"]
+			srcs: ["proprietary/vendor/lib64/libwifi-hal-mtk.so"]
 		},
 	},
 	compile_multilib: "64",

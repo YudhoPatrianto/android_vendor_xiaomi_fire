@@ -2269,7 +2269,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/thh/ta/isee_model.json:$(TARGET_COPY_OUT_VENDOR)/thh/ta/isee_model.json
 
 PRODUCT_PACKAGES += \
-    libwifi-hal \
+    libwifi-hal-mtk \
     GoogleNetworkStackResOverlay \
     GoogleTetheringResOverlay \
     InProcessTetheringResOverlay \

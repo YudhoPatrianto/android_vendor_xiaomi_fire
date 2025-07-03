@@ -2235,8 +2235,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fire/proprietary/vendor/res/images/lcd_test_02.png:$(TARGET_COPY_OUT_VENDOR)/res/images/lcd_test_02.png \
     vendor/xiaomi/fire/proprietary/vendor/res/sound/ringtone.wav:$(TARGET_COPY_OUT_VENDOR)/res/sound/ringtone.wav \
     vendor/xiaomi/fire/proprietary/vendor/res/sound/testpattern1.wav:$(TARGET_COPY_OUT_VENDOR)/res/sound/testpattern1.wav \
-    vendor/xiaomi/fire/proprietary/vendor/ro.prop:$(TARGET_COPY_OUT_VENDOR)/ro.prop \
-    vendor/xiaomi/fire/proprietary/vendor/rw.prop:$(TARGET_COPY_OUT_VENDOR)/rw.prop \
     vendor/xiaomi/fire/proprietary/vendor/thh/ta/0102030405060708090a0b0c0d0e0f10.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/0102030405060708090a0b0c0d0e0f10.ta \
     vendor/xiaomi/fire/proprietary/vendor/thh/ta/020b0000000000000000000000000000.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/020b0000000000000000000000000000.ta \
     vendor/xiaomi/fire/proprietary/vendor/thh/ta/020f0000000000000000000000000000.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/020f0000000000000000000000000000.ta \

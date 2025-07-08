@@ -5,5 +5,13 @@
 LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),fire)
-
+$(call add-radio-file-sha1-checked,radio/gz.img,11466269042119d3fb3df7ee5ff99a6b1b320fd0)
+$(call add-radio-file-sha1-checked,radio/lk.img,d22a2de1fb15ca8b4c4daa05f85b8430320e3302)
+$(call add-radio-file-sha1-checked,radio/logo.img,e198cfb61194d0c9ccb0a05385caa64d12526fd3)
+$(call add-radio-file-sha1-checked,radio/md1img.img,bd81aed6f16f6d0c5e64d115ce5b355c3bfe17eb)
+$(call add-radio-file-sha1-checked,radio/preloader_raw.img,490b97eb516fdb64521a9900e6d5a2ae01c44fb0)
+$(call add-radio-file-sha1-checked,radio/scp.img,e7838b385622b21f184831ab5f76b5308858f3d5)
+$(call add-radio-file-sha1-checked,radio/spmfw.img,396ad9d50fd656654cc9d9900bbcb1b75bf88972)
+$(call add-radio-file-sha1-checked,radio/sspm.img,329f3e73c258150232ac1bd2f30157cb14dc84e4)
+$(call add-radio-file-sha1-checked,radio/tee.img,21a10d9e1d331e3a8f0877a06a17ece926f37925)
 endif

@@ -2268,14 +2268,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libwifi-hal-mtk \
-    GoogleNetworkStackResOverlay \
-    GoogleTetheringResOverlay \
-    InProcessTetheringResOverlay \
-    MipayService \
-    NetworkStackInProcessResOverlay \
-    NetworkStackResOverlay \
-    SoterService \
-    TetheringResOverlay \
     com.fingerprints.extension \
     com.fingerprints.fpmmi \
     android.hardware.boot@1.2 \

@@ -1,0 +1,8 @@
+radio/lk.img filter=lfs diff=lfs merge=lfs -text
+radio/md1img.img filter=lfs diff=lfs merge=lfs -text
+radio/preloader_raw.img filter=lfs diff=lfs merge=lfs -text
+radio/scp.img filter=lfs diff=lfs merge=lfs -text
+radio/spmfw.img filter=lfs diff=lfs merge=lfs -text
+radio/sspm.img filter=lfs diff=lfs merge=lfs -text
+radio/tee.img filter=lfs diff=lfs merge=lfs -text
+radio/gz.img filter=lfs diff=lfs merge=lfs -text
